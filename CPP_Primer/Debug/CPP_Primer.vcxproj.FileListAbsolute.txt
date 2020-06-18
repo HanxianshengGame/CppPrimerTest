@@ -1,0 +1,2 @@
+H:\CPP_Primer\Debug\CPP_Primer.exe
+H:\CPP_Primer\Debug\CPP_Primer.pdb
